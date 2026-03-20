@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את הפלטפורמה המובילה לבניית אתרי סחר אלקטרוני. צור חנות מקצועית, מרשימה ורווחית בקלות מלאה עם הכלים החכמים ביותר בשוק. התחל היום!
+
+### אודות
+https://example.com/about
+הכר את הצוות שמאחורי פלטפורמת הסחר המובילה. אנחנו מאמינים שכל עסק ראוי לנוכחות דיגיטלית חזקה — גלה את החזון, הערכים והמומחיות שלנו כאן.
+
+### גלריה
+https://example.com/gallery
+גלריית הפרויקטים שלנו מציגה אתרי סחר אלקטרוני מרהיבים שבנינו ללקוחות מובילים. השתמש בהשראה הזו כדי לדמיין איך החנות שלך תיראה — צפה עכשיו!
+
+### צור קשר
+https://example.com/contact
+מוכן להפוך את הרעיון שלך לחנות אונליין מצליחה? צוות המומחים שלנו זמין לך עכשיו. שלח הודעה ונחזור אליך מהר כדי להתחיל לבנות יחד את עתיד העסק שלך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - איריס נדרזון חוטה האתר
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - איריס נדרזון חוטה האתר
+
+### Category
+https://example.com/category/:slug
+מוצרים - איריס נדרזון חוטה האתר
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
